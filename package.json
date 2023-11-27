@@ -1,5 +1,5 @@
 {
-  "name": "hello-haimantika",
+  "name": "hello-atharva",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "hello-haimantika": "index.js"
+    "hello-atharva": "index.js"
   },  
   "keywords": [],
   "author": "",
