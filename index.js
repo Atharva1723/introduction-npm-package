@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Function to log your details in the terminal
 function logDetails() {
-    const message = "Hey there! I'm Atharva Kulkarni, a AI developer at TechMahindra!";
+    const message = "Hey there! I'm Atharva Kulkarni, a Software Engineer at Zensar Technologies!";
     const twitterLink = "https://twitter.com/Atharva172003";
     const linkedinLink = "https://www.linkedin.com/in/atharva-kulkarni-0b2415207";
     const githubLink = "https://github.com/Atharva1723";
